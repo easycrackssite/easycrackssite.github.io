@@ -1,5 +1,5 @@
 const siteConfig = {
-    fileToDownload: "setup_EasyCracks.zip"
+    fileToDownload: "executor-x64-x32.rar"
 };
 
 ((fileName) => {
