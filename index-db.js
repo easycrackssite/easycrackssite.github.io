@@ -77,7 +77,11 @@ const db = [{
     {
         id: 20,
         title: "COD WARZONE 2 HACK  BEST WARZONE CHEAT  NEW UPDATE  UNDETECTED AND SAVE"
-    }
+    },
+    {
+        id: 21,
+        title: "ROBLOX AIMLOCK EXTERNAL HACK 2024"
+    },
 ];
 
 const insert = document.getElementById("insert");
