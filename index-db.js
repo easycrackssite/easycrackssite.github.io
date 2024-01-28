@@ -82,6 +82,10 @@ const db = [{
         id: 21,
         title: "ROBLOX AIMLOCK EXTERNAL HACK 2024"
     },
+    {
+        id: 22,
+        title: "FISHING BOT FOR MAJESTIC CRACK 2024"
+    },
 ];
 
 const insert = document.getElementById("insert");
