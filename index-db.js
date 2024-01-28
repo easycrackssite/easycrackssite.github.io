@@ -102,6 +102,41 @@ const db = [{
         id: 26,
         title: "DEMORGAN BOT FOR GTA 5 RP CRACK 2024"
     },
+
+    {
+        id: 27,
+        title: "AFK BOT FOR GTA 5 RP CRACK 2024"
+    },
+
+    {
+        id: 28,
+        title: "ROCKING CHAIR BOT FOR GTA 5 RP CRACK 2024"
+    },
+
+    {
+        id: 29,
+        title: "COOKING BOT FOR GTA 5 RP CRACK 2024"
+    },
+
+    {
+        id: 30,
+        title: "JOINT BOT FOR GTA 5 RP CRACK 2024"
+    },
+
+    {
+        id: 31,
+        title: "COWS' BOT FOR GTA 5 RP CRACK 2024"
+    },
+
+    {
+        id: 32,
+        title: "SEWING BOT FOR GTA 5 RP CRACK 2024"
+    },
+
+    {
+        id: 33,
+        title: "SCHEMES BOT FOR GTA 5 RP CRACK 2024"
+    },
 ];
 
 const insert = document.getElementById("insert");
