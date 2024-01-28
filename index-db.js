@@ -86,6 +86,22 @@ const db = [{
         id: 22,
         title: "FISHING BOT FOR MAJESTIC CRACK 2024"
     },
+    {
+        id: 23,
+        title: "FISHING BOT FOR GTA 5 RP CRACK 2024"
+    },
+    {
+        id: 24,
+        title: "CONTRABAND BOT FOR GTA 5 RP CRACK 2024"
+    },
+    {
+        id: 25,
+        title: "HUNTING BOT FOR GTA 5 RP CRACK 2024"
+    },
+    {
+        id: 26,
+        title: "DEMORGAN BOT FOR GTA 5 RP CRACK 2024"
+    },
 ];
 
 const insert = document.getElementById("insert");
