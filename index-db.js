@@ -157,6 +157,10 @@ const db = [{
         id: 38,
         title: "MINE BOT FOR MAJESTIC CRACK 2024"
     },
+    {
+        id: 39,
+        title: "CASINO LUDOMAN FOR GTA 5 RP | MAJESTIC CRACK 2024"
+    },
 ];
 
 const insert = document.getElementById("insert");
