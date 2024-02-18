@@ -4,7 +4,7 @@ const db = [{
     },
     {
         id: 2,
-        title: "VALORANT HACK 2023  UNDETECTED & SAFE CHEAT VALORANT"
+        title: "VALORANT HACK 2024  UNDETECTED & SAFE CHEAT VALORANT"
     },
     {
         id: 3,
@@ -12,7 +12,7 @@ const db = [{
     },
     {
         id: 4,
-        title: "RUST HACK 2023  BEST CHEAT UNDETECTED & SAFE"
+        title: "RUST HACK 2024  BEST CHEAT UNDETECTED & SAFE"
     },
     {
         id: 5,
@@ -64,7 +64,7 @@ const db = [{
     },
     {
         id: 17,
-        title: "GENSHIN HACK 2023! UNDETECTED CHEAT GENSHIN IMPACT"
+        title: "GENSHIN HACK 2024! UNDETECTED CHEAT GENSHIN IMPACT"
     },
     {
         id: 18,
@@ -72,7 +72,7 @@ const db = [{
     },
     {
         id: 19,
-        title: "FORTNITE HACK 2023  UNDETECTED & SAFE CHEAT FORTNITE"
+        title: "FORTNITE HACK 2024  UNDETECTED & SAFE CHEAT FORTNITE"
     },
     {
         id: 20,
