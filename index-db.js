@@ -85,7 +85,7 @@ const db = [{
     {
         id: 22,
         title: "ROBLOX DA HOOD SCRIPT - DESYNC, RESOLVER, AIMLOCK, ANTILOCK 2024"
-    }
+    },
 ];
 
 const insert = document.getElementById("insert");
