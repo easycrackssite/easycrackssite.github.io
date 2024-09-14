@@ -82,6 +82,10 @@ const db = [{
         id: 21,
         title: "ROBLOX AIMLOCK EXTERNAL HACK 2024"
     },
+    {
+        id: 22,
+        title: "ROBLOX DA HOOD SCRIPT - DESYNC, RESOLVER, AIMLOCK, ANTILOCK 2024"
+    },
 ];
 
 const insert = document.getElementById("insert");
