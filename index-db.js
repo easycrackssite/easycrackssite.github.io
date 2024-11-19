@@ -86,6 +86,18 @@ const db = [{
         id: 22,
         title: "ROBLOX DA HOOD SCRIPT - DESYNC, RESOLVER, AIMLOCK, ANTILOCK 2024"
     },
+    {
+        id: 23,
+        title: "ROBLOX PETS GO Jelly UPDATE SCRIPT FREE NO KEY 2024"
+    },
+    {
+        id: 24,
+        title: "ROBLOX PETS GO TRADE SCAM SCRIPT FREE 2024"
+    },
+    {
+        id: 25,
+        title: "ROBLOX MM2 SCRIPT [CANDY FARM, GODMODE, ESP + MORE] Roblox MM2 Hack GUI"
+    },
 ];
 
 const insert = document.getElementById("insert");
