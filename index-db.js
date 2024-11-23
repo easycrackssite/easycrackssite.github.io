@@ -97,7 +97,7 @@ const db = [{
     {
         id: 25,
         title: "ROBLOX MM2 SCRIPT [CANDY FARM, GODMODE, ESP + MORE] Roblox MM2 Hack GUI"
-    }.
+    }
 
 ];
 
