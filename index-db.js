@@ -98,6 +98,14 @@ const db = [{
         id: 25,
         title: "ROBLOX MM2 SCRIPT [CANDY FARM, GODMODE, ESP + MORE] Roblox MM2 Hack GUI"
     }
+    {
+        id: 26,
+        title: "PET SIMULATOR 99 Script Pastebin 2024 UPDATE STANDING IN LINE AUTO FARM"
+    }
+    {
+        id: 27,
+        title: "ROBLOX Fastest Fisch Script – NEW Instant Catch, Auto Farm & Shake 2024"
+    }
 ];
 
 const insert = document.getElementById("insert");
