@@ -105,7 +105,7 @@ const db = [{
     {
         id: 27,
         title: "ROBLOX Fastest Fisch Script – NEW Instant Catch, Auto Farm & Shake 2024"
-    }
+    },
 ];
 
 const insert = document.getElementById("insert");
