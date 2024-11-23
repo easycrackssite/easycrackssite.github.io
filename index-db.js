@@ -84,7 +84,7 @@ const db = [{
     },
     {
         id: 22,
-        title: "ROBLOX DA HOOD SCRIPT - DESYNC, RESOLVER, AIMLOCK, ANTILOCK 2024"
+        title: "FREE ROBLOX DA HOOD SCRIPT - DESYNC, RESOLVER, AIMLOCK, ANTILOCK 2024"
     },
     {
         id: 23,
