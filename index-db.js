@@ -7,14 +7,6 @@ const db = [{
         title: "PET SIMULATOR 99 Script Pastebin UPDATE STANDING IN LINE AUTO FARM 2024"
     },
     {
-        id: 3,
-        title: "UNDETECTED SKINCHANGER FOR CS 2"
-    },
-    {
-        id: 4,
-        title: "RUST HACK 2024  BEST CHEAT UNDETECTED & SAFE"
-    },
-    {
         id: 5,
         title: "Roblox Toilet Tower Defense Script"
     },
@@ -57,26 +49,6 @@ const db = [{
     {
         id: 15,
         title: "Roblox Anime Adventure Script"
-    },
-    {
-        id: 16,
-        title: "GTA 5 MOD MENU  KIDDIONs MENU PC"
-    },
-    {
-        id: 17,
-        title: "GENSHIN HACK 2024! UNDETECTED CHEAT GENSHIN IMPACT"
-    },
-    {
-        id: 18,
-        title: "FORTNITE SWAPPER HACK! UNDETECTED SKIN CHANGER"
-    },
-    {
-        id: 19,
-        title: "FORTNITE HACK 2024  UNDETECTED & SAFE CHEAT FORTNITE"
-    },
-    {
-        id: 20,
-        title: "COD WARZONE 2 HACK  BEST WARZONE CHEAT  NEW UPDATE  UNDETECTED AND SAVE"
     },
     {
         id: 21,
