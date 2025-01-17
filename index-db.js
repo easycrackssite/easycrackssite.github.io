@@ -1,6 +1,6 @@
 const db = [{
         id: 1,
-        title: "ROBLOX Fastest Fisch Script – NEW Instant Catch, Auto Farm & Shake 2024"
+        title: "ROBLOX Fastest Fisch Script – NEW Instant Catch, Auto Farm & Shake 2025"
     },
     {
         id: 2,
